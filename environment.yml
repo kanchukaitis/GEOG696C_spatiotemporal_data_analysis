@@ -1,0 +1,48 @@
+name: geog696c_python311
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  # Core Python
+  - python=3.11
+  
+  # Jupyter ecosystem
+  - jupyter
+  - jupyterlab
+  - notebook
+  - ipykernel
+  - ipywidgets
+  
+  # Core scientific computing
+  - numpy
+  - pandas
+  - scipy
+  - scikit-learn
+  - statsmodels
+  
+  # Visualization
+  - matplotlib
+  - seaborn
+  
+  # Geospatial packages
+  - xarray
+  - netcdf4
+  - cartopy
+  - shapely
+  - pyproj
+  - geos
+  
+  # Data access and utilities
+  - requests
+  - beautifulsoup4
+  - pyyaml
+  
+  # Package manager
+  - pip
+  
+  # Packages installed via pip
+  - pip:
+      - dask
+      - xarray-datatree
+      - xlrd
+      - tqdm
