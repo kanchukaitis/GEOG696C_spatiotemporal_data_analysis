@@ -33,7 +33,7 @@ Here are the basic steps from the video:
 
 I've provided a very simple `environment.yml` file in this repository for you to use in the course.  This should work on all operating systems and on your installation whether you used Anaconda or Miniconda.  It doesn't contain any specific paths or force any specific builds except for Python 3.11 -- if you take a look at the file, you'll see that I've organized it in groups for a clearer understanding of what we're installing when we create the environment for the course. 
 
-To install and use the environment, type the following commands from a bash terminal:
+To install and use the environment, type the following commands from a bash terminal (macos) or the Anaconda Prompt (NOT the Command Prompt or the Powershell):
 
 ```
 conda env create -f environment.yml
