@@ -1,7 +1,7 @@
 # Spatiotemporal Data Analysis
 
 ## Overview
-This is a graduate course taught as GEOG696c (the physical geography seminar) at the University of Arizona.  The class will be taught in Spring 2026.  
+This is a graduate course taught as GEOG696c (the physical geography seminar) at the University of Arizona.  The class is being taught in Spring 2026.  The syllabus can be found [here](https://github.com/kanchukaitis/GEOG696C_spatiotemporal_data_analysis/blob/main/geog696c_syllabus.pdf).
 
 This course is designed as a graduate level class in a workshop format to give students a theoretical framework, practical experience, expert knowledge, and statistical tools for analyzing spatiotemporal datasets. It is fundamentally about [building tools](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2011EO500010) and practical understanding so that students can intelligently apply these techniques in their own research. Topics include basic matrix algebra and statistics, exploratory data analysis, field correlation and regression analysis, autocorrelation and its statistical consequences in time and space, parametric and non-parametric significance testing and error analysis, empirical orthogonal functions including rotation, singular spectrum analysis, maximum covariance and canonical correspondence analysis, and traditional and multitaper spectral analysis.  The course encompasses instruction and training in Python and in the use and manipulation of large multi-dimensional datasets.
 
